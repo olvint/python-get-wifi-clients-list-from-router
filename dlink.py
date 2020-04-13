@@ -1,5 +1,5 @@
 # Code for getting list of wifi clients (mac addresses) from your router
-# This code is made and tested fot Dlink DIR-825ACG1 revision G1A 
+# This code is made and tested for Dlink DIR-825ACG1 revision G1A 
 # Router firmware 2019.04.17-12.40_DIR_825AC_G1A_UFANET_1.0.5_release)
 
 import telnetlib
